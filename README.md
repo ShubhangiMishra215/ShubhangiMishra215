@@ -27,10 +27,6 @@
 - **[Prescripto](https://github.com/ShubhangiMishra215/Prescripto.git)** — Doctor appointment booking platform with patient/doctor/admin role-based panels, Razorpay, Cloudinary.
 - **[Eventora](https://github.com/ShubhangiMishra215/Eventora.git)** & **[Restaurant Reservation App](https://github.com/ShubhangiMishra215/restaurant-reservation-app.git)** — Deployed full-stack applications.
 ---
-### 📊 GitHub Stats
-![Shubhangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhangimishra215&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangimishra215&layout=compact)
----
 ### 📫 Reach Me
 - LinkedIn: [mishrashubhangi08](https://www.linkedin.com/in/mishrashubhangi08/)
 - Email: shubhangimishra215@gmail.com
