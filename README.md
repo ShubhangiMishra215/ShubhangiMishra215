@@ -21,9 +21,9 @@
 ![ImageKit](https://img.shields.io/badge/-ImageKit-FB7A24?style=flat-square&logo=imagekit&logoColor=white)
 ---
 ### 🚀 Featured Projects
-- **[College Discovery & Decision Platform](https://github.com/ShubhangiMishra215/College-Compass.git)** — College listing, search, comparison, and a predictor tool.
 - **[AI Resume Builder](https://github.com/ShubhangiMishra215/AI-Resume-builder.git)** — Full-stack resume builder with MERN + Gemini AI, Redis caching, JWT auth, ImageKit uploads, deployed on Vercel/Render.
 - **[Prescripto](https://github.com/ShubhangiMishra215/Prescripto.git)** — Doctor appointment booking platform with patient/doctor/admin role-based panels, Razorpay, Cloudinary.
+- **[College Discovery & Decision Platform](https://github.com/ShubhangiMishra215/College-Compass.git)** — College listing, search, comparison, and a predictor tool.
 - **[Eventora](https://github.com/ShubhangiMishra215/Eventora.git)** & **[Restaurant Reservation App](https://github.com/ShubhangiMishra215/restaurant-reservation-app.git)** — Deployed full-stack applications.
 ---
 ### 📫 Reach Me
