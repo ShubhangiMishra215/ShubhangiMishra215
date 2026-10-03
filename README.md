@@ -1,7 +1,6 @@
 ## Hi, I'm Shubhangi 👋
 3rd-year B.Tech Information Technology student at MMMUT, Gorakhpur (CGPA 8.9+) — building full-stack MERN applications and looking for **SDE/Full-Stack internship** opportunities.
-- 🌱 Currently learning: **Next.js**
-- 💻 470+ DSA problems solved on LeetCode
+- 💻 500+ DSA problems solved on LeetCode
 ---
 ### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
